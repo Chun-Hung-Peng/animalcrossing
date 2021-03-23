@@ -1,0 +1,91 @@
+
+{
+    "sucess": true,
+    "homepagedata": {
+        "topicList": [{
+            "id": 1,
+            "title": "新手必備知識",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Animal_Crossing_Leaf.png"
+        },{
+            "id": 2,
+            "title": "季節限定",
+            "imgUrl": "https://66.media.tumblr.com/a956d6860e7659062a38a525f0859160/9463f3f929fb7a24-d6/s250x400/e58023f7ffc4ff08fde3a54b874779a0cbb57146.png"
+        },{
+            "id": 3,
+            "title": "最新活動",
+            "imgUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/5193/LINEStorePC/main.png;compress=true"
+        },{
+            "id": 4,
+            "title": "島嶼設計",
+            "imgUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/39/Breezy-hollow_icon.png/revision/latest?cb=20171111014116"
+        },{
+            "id": 5,
+            "title": "島民圖鑑",
+            "imgUrl": "https://i.imgur.com/tymXkSd_d.webp?maxwidth=728&fidelity=grand"
+        },{
+            "id": 6,
+            "title": "DIY取得",
+            "imgUrl": "https://pic.pimg.tw/fun4learning/1490318455-2514887635_wn.jpg"
+        }],
+        "articleList": [{
+            "id":1,
+            "title": " 動森新手入門教學、老鳥才知道的密技和攻略",
+            "desc": "動物森友會攻略、你不知道的動物森友會密技、動物森友會下載服裝QR CODE大全、炒大頭菜教學、超稀有配種花種植方法、趕走島民的方法、超賺錢動物森友會狼蛛島製作方法、動物森友會NPC角色大全。",
+            "imgUrl": "https://handler.travel/wp-content/uploads/2020/05/AC-build.jpg"
+        },{
+            "id":2,
+            "title": "動物森友會8月更新！花火大會、新NPC來了！",
+            "desc": "任天堂發布了《動物森友會》(動物之森) 最新1.4.0的更新預告影片，將會於7月30日正式上線！當中不只有季節活動，還有新NPC，更有大家最期待的復原儲存資料服務！",
+            "imgUrl": "https://handler.travel/wp-content/uploads/2020/07/ACNH-1.4.0-1.jpg"
+        },{
+            "id":3,
+            "title": "成為傑克船長！動物森友會海盜系列物品一覽！",
+            "desc": "在更新預告影片中也有提及到，將會加入一位與呂遊十分相像的NPC，而這個NPC就是會為大家帶來海盜系列物品的海盜J！",
+            "imgUrl": "https://handler.travel/wp-content/uploads/2020/07/ACNH-Gullivarrr.jpg"
+        },{
+            "id":4,
+            "title": "動物森友會人魚系列18個DIY方程式及服飾一覽！",
+            "desc": "自夏季更新後，不只多了個可愛的新海獺NPC阿獺出現，還有超美、超夢幻的人魚系列家具DIY方程式及服飾！以下就一起來看看要怎麼樣才能觸發阿獺出現，以及獲得該動物之森人魚系列必要的材料珍珠吧！",
+            "imgUrl": "https://handler.travel/wp-content/uploads/2020/07/%E5%8B%95%E6%A3%AE%E4%BA%BA%E9%AD%9A%E7%B3%BB%E5%88%97.jpg"
+        }],
+        "recommendList": [
+            {
+                "id": 1,
+                "imgUrl": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/animal-crossing-new-horizons-switch/screenshot-gallery/animal-crossing-new-horizons-switch-screenshot01.jpg"
+            },
+            {
+                "id": 2,
+                "imgUrl": "https://p.qpic.cn/mwegame/0/0f3f050e4ca354f1ab851353f97e0f3e/"
+            },
+            {
+                "id": 3,
+                "imgUrl": "https://image-cdn.essentiallysports.com/wp-content/uploads/20200822004156/3658589-animal-crossing-new-horizons-switch-screenshot06-1.jpg"
+            },
+            {
+                "id": 4,
+                "imgUrl": "https://wp-en.oberlo.com/wp-content/uploads/2020/04/Animal-Crossing.jpg"
+            }
+        ],
+        "writerList": [{
+            "id": 1,
+            "imgUrl": "https://dodo.ac/np/images/7/7e/Cat_Cap_%28Navy_Blue%29_NH_Icon.png",
+            "name":"卡加布列島-小米",
+            "content":"島嶼設計分享"
+        },{
+            "id": 2,
+            "imgUrl": "https://66.media.tumblr.com/9815095f78edc32f8d08b9a527e71307/b9c27a45407b5f74-f7/s250x400/5bc2c444750f2856fb8ed05633af78bbcde7461b.png",
+            "name":"我家阿一最可愛",
+            "content":"刷島民技巧"
+        },{
+            "id": 3,
+            "imgUrl": "https://stickershop.line-scdn.net/stickershop/v1/sticker/13653306/android/sticker.png",
+            "name":"蒐集狂",
+            "content":"各式DIY來源"
+        },{
+            "id": 4,
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLcamdue1mJTSdz-tWR-2YC04__6bbwHI6VQ&usqp=CAU",
+            "name":"隨興玩遊戲",
+            "content":"如何不跟風玩動森"
+        }]
+    }
+}

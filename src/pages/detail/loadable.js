@@ -1,0 +1,11 @@
+import Loadable from 'react-loadable';
+import React from 'react'
+
+const LoadableComponent = Loadable({
+  loader: () => import('./'),
+  loading() {
+      return <div>加載頁面中</div>
+  }
+});
+
+export default () => <LoadableComponent />
